@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FingerDash</id>
+    <version>1.0.0</version>
+    <authors>FingerDash</authors>
+    <icon>FingerDash-logos_64.png</icon>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="System.Data.Common" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\FingerDash.runtimeconfig.json" target="lib\netcoreapp3.1\FingerDash.runtimeconfig.json" />
+    <file src="D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\FingerDash.dll" target="lib\netcoreapp3.1\FingerDash.dll" />
+    <file src="D:\C# projects\FingerDash\FingerDash\Properties\resource\FingerDash-logos_64.png" target="FingerDash-logos_64.png" />
+  </files>
+</package>

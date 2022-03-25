@@ -1,0 +1,11 @@
+D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\publish\FingerDash.exe
+D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\publish\FingerDash.dll
+D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\publish\FingerDash.deps.json
+D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\publish\FingerDash.runtimeconfig.json
+D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\publish\FingerDash.pdb
+D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\publish\System.Data.SqlClient.dll
+D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\publish\runtimes\win-arm64\native\sni.dll
+D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\publish\runtimes\win-x64\native\sni.dll
+D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\publish\runtimes\win-x86\native\sni.dll
+D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

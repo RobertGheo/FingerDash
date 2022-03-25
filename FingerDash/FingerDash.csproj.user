@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+    <_LastSelectedProfileId>D:\C# projects\FingerDash\FingerDash\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="ClassControls\RjTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ClassControls\RoundBorderPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\ClockAlertMess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ClockInOutMess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EmployeeBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EmployeeRota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EmployeeTimeSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RotaCurrentW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RotaNextWeek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RotaPrevWeek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\StaffBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\StaffClockIns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\StaffRota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TimeCardCurrentW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TimeCardNextW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TimeCardPrevW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ZClockInStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ZClockOutStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClassControls\RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StartApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
