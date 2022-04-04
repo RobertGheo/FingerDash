@@ -19,8 +19,8 @@
     </frameworkReferences>
   </metadata>
   <files>
-    <file src="D:\C# projects\FingerDash\FingerDash\bin\Debug\netcoreapp3.1\FingerDash.runtimeconfig.json" target="lib\netcoreapp3.1\FingerDash.runtimeconfig.json" />
-    <file src="D:\C# projects\FingerDash\FingerDash\bin\Debug\netcoreapp3.1\FingerDash.dll" target="lib\netcoreapp3.1\FingerDash.dll" />
+    <file src="D:\C# projects\FingerDash\FingerDash\bin\Debug\netcoreapp3.1\win-x64\FingerDash.runtimeconfig.json" target="lib\netcoreapp3.1\FingerDash.runtimeconfig.json" />
+    <file src="D:\C# projects\FingerDash\FingerDash\bin\Debug\netcoreapp3.1\win-x64\FingerDash.dll" target="lib\netcoreapp3.1\FingerDash.dll" />
     <file src="D:\C# projects\FingerDash\FingerDash\Properties\resource\FingerDash-logos_64.png" target="FingerDash-logos_64.png" />
   </files>
 </package>

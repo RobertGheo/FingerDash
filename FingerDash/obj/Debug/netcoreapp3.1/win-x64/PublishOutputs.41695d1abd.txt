@@ -1,0 +1,2 @@
+D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\publish\FingerDash.pdb
+D:\C# projects\FingerDash\FingerDash\bin\Release\netcoreapp3.1\publish\FingerDash.exe
